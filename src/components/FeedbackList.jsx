@@ -22,7 +22,7 @@ function FeedbackList({feedback, handleDelete}) {
             </AnimatePresence>
         </div>
       )
-  
+// Without animation
 //     return (
 //     <div className='feedback-list'>
 //         {feedback.map(item => (
