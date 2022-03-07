@@ -16,8 +16,8 @@
       "text": "This is feedback item 3 coming from the backed"
     },
     {
-      "text": "This is a test!",
-      "rating": 5,
+      "text": "This is a test for update! WOrks!",
+      "rating": 10,
       "id": 4
     }
   ]
